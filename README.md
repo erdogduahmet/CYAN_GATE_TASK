@@ -104,7 +104,7 @@ A **custom Report** and **Dashboard** have been created to visualize Accounts an
 
 
 - **Trailhead Profile (Public):**  
-  [*(Add your Trailhead profile link here)*  ](https://www.salesforce.com/trailblazer/rrxbykb8d0c12m367e)
+-https://www.salesforce.com/trailblazer/rrxbykb8d0c12m367e
 
 ---
 
